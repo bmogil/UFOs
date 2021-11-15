@@ -21,7 +21,7 @@ Next, the image below depicts an example of what a user could input into the sea
 ![](images/filter_input.png)
 
 Once the user inputs his/her desired search criteria, he/she will simply have to press the enter key on their keyboard for the web page to present the associated results, like so: 
-![](images/results.png)
+![](images/filter_results.png)
 
 Then, if the user wishes to perform another search, he/she has two options. The first option is to navigate to the top left corner and click on the text, "UFO Sightings" as the green arrows in the below image are pointing to:
 ![](images/refresh.png)
