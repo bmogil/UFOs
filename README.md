@@ -8,8 +8,10 @@ The purpose of the final web app is to store data on UFO sightings. Further, the
 ### Details
 The data used to store, sort, query, and present the UFO sighting information is stored as a JavaScript array. On the front end, the data is presented to the user as a table. The table is very dynamic; capable of being queried on any combination of five different filters as per the users' selection.
 
+---
+
 ### Programming Languages and other Software Used
-JavaScript, HTML, Bootstrap, CSS, and VS Code
+* JavaScript, HTML, Bootstrap, CSS, and VS Code
 ---
 ## Results
 The primary objective of this project was to build a dynamic webpage; enabling user interaction on a variety of table filter search criteria including: date, city, state, country and/or shape. Once the user has selected a combination of filters and input their specific filter criteria into the designated filter boxes, the web page will dynamically return all of the data matching the user's inputs and display only that data in the table. The image below displays what the webpage will look like before any filters have been applied to the table: 
