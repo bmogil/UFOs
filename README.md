@@ -15,16 +15,16 @@ The data used to store, sort, query, and present the UFO sighting information is
 ---
 ## Results
 The primary objective of this project was to build a dynamic webpage; enabling user interaction on a variety of table filter search criteria including: date, city, state, country and/or shape. Once the user has selected a combination of filters and input their specific filter criteria into the designated filter boxes, the web page will dynamically return all of the data matching the user's inputs and display only that data in the table. The image below displays what the webpage will look like before any filters have been applied to the table: 
-![](Images/pre_filters.png)
+![](images/pre_filters.png)
 
 Next, the image below depicts an example of what a user could input into the search filters: 
-![](Images/filter_input.png)
+![](images/filter_input.png)
 
 Once the user inputs his/her desired search criteria, he/she will simply have to press the enter key on their keyboard for the web page to present the associated results, like so: 
-![](Images/results.png)
+![](images/results.png)
 
 Then, if the user wishes to perform another search, he/she has two options. The first option is to navigate to the top left corner and click on the text, "UFO Sightings" as the green arrows in the below image are pointing to:
-![](Images/refresh.png)
+![](images/refresh.png)
 
 Lastly, the user's second option is to reload their web-browser. Both of these options will result in the default table being displayed as well as cleared filters, thereby allowing the web page to perform a new query once the above steps are followed again. 
 
