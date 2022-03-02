@@ -33,3 +33,8 @@ Then, if the user wishes to perform another search, he/she has two options. The 
 ![](images/refresh.png)
 
 The user's second option is to reload their web-browser. Both of these options will result in the default table being displayed as well as cleared filters, thereby allowing the web page to perform a new query.
+---
+## Tools/Packages Used
+* JavaScript
+   - D3.js
+* HTML/CSS
