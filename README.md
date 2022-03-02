@@ -3,7 +3,7 @@
 ## Overview of the Project
 ---
 ### Purpose
-The purpose of the final web app is to store data on UFO sightings. Further, the webpage is also a central location for users to query the database on a multitude of filters. 
+The purpose of this web app is to store data on UFO sightings. Further, the webpage is also a central location for users to query the database on a multitude of filters. 
 
 ### Details
 The data used to store, sort, query, and present the UFO sighting information is stored as a JavaScript array. On the front end, the data is presented to the user as a table. The table is very dynamic; capable of being queried on any combination of five different filters as per the users' selection.
