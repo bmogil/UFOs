@@ -20,13 +20,16 @@ The primary objective of this project was to build a dynamic webpage; enabling u
 * State
 * Country
 * Shape 
-Once the user has selected a singular/combination of filter criteria into the designated filter boxes, the web page will dynamically return a table consisting of all the data matching the user's inputs. The image below displays what the webpage will look like before any filters have been applied to the table: 
+Once the user has selected a singular/combination of filter criteria into the designated filter boxes, the web page will dynamically return a table consisting of all the data matching the user's inputs.
+---
+## Demo
+The image below displays what the webpage will look like before any filters have been applied to the table: 
 ![](images/pre_filters.png)
 
 Next, the image below depicts an example of what a user could input into the search filters: 
 ![](images/filter_input.png)
 
-Once the user inputs his/her desired search criteria, he/she will simply have to press the enter key on their keyboard for the web page to present the associated results, like so: 
+Once the user inputs his/her desired search criteria, he/she will simply have to press the enter key for the web page to present the associated results, like so: 
 ![](images/filter_results.png)
 
 Then, if the user wishes to perform another search, he/she has two options. The first option is to navigate to the top left corner and click on the text, "UFO Sightings" as the green arrows in the below image are pointing to:
