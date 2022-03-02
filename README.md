@@ -23,19 +23,26 @@ The primary objective of this project was to build a dynamic webpage; enabling u
 Once the user has selected a singular/combination of filter criteria into the designated filter boxes, the web page will dynamically return a table consisting of all the data matching the user's inputs.
 ---
 ## Demo
-The image below displays what the webpage will look like before any filters have been applied to the table: 
+***Default Table***
+* The image below displays what the webpage will look like before any filters have been applied to the table: 
 ![](images/pre_filters.png)
 
-Next, the image below depicts an example of what a user could input into the search filters: 
+***Apply Filters***
+* The user will then enter their desired search filters
+* The image below depicts an example of what a user could input into the search filters: 
 ![](images/filter_input.png)
 
-Once the user inputs his/her desired search criteria, he/she will simply have to press the enter key for the web page to present the associated results, like so: 
+***Results***
+* Once the user inputs their desired search criteria and presses enter, the web page presents their associated results, like so: 
 ![](images/filter_results.png)
 
-Then, if the user wishes to perform another search, he/she has two options. The first option is to navigate to the top left corner and click on the text, "UFO Sightings" as the green arrows in the below image are pointing to:
+***Another Search?***
+* Then, if the user wishes to perform another search, there are two options 
+* The first option is to navigate to the top left corner and click on the text, "UFO Sightings" as the green arrows in the below image are pointing to:
 ![](images/refresh.png)
 
-The user's second option is to reload their web-browser. Both of these options will result in the default table being displayed as well as cleared filters, thereby allowing the web page to perform a new query.
+* The user's second option is to reload their web-browser
+* Both of these options will result in the default table being displayed, as well as cleared filters, thereby allowing the web page to perform a new query.
 ---
 ## Tools/Packages Used
 * JavaScript
